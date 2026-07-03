@@ -16,7 +16,7 @@ Sem decorar comando com `!`: é **slash command** (`/`), com autocomplete do pr�
 
 ## ⚡ Começar (o jeito fácil)
 
-> Pré-requisito único: **Python 3.10+** instalado ([baixe aqui](https://www.python.org/downloads/) — marque **"Add Python to PATH"**).
+> Pré-requisito único: **Python 3.10 (ou superior)** instalado ([baixe aqui](https://www.python.org/downloads/) — marque **"Add Python to PATH"**).
 
 1. Baixe/clone este projeto.
 2. Crie o bot no Discord e pegue o token (passo a passo na seção abaixo — leva 2 min).
